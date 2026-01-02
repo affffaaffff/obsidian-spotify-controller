@@ -146,7 +146,3 @@ npm run build
 The compiled `main.js` file is loaded by Obsidian.
 
 ---
-
-## License
-
-MIT
