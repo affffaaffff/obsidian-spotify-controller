@@ -1,10 +1,11 @@
 {
-  "id": "obsidian-spotify",
+  "id": "spotify-controller",
   "name": "Spotify Controller",
   "version": "1.0.0",
   "minAppVersion": "1.5.0",
-  "description": "Control Spotify playback directly from Obsidian",
+  "description": "Control Spotify playback directly from your notes",
   "author": "Affaf",
   "isDesktopOnly": true,
   "main": "main.js"
+
 }
